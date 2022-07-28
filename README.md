@@ -1,2 +1,2 @@
-# Conv-AttNet-for-detection-of-ENF
-An official implement of "A CONV-ATTENTION NETWORK FOR DETECTION OF ENF SIGNALS IN AUDIOS"
+# Conv-AttNet
+An official implement of "A Conv-Attention Network for detecting the Presence of ENF Signal in Short-Duration Audios"
